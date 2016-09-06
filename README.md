@@ -1,2 +1,3 @@
 # MyFirstOne
-Something Interesting
+
+Novice Yet Enthusiastic Programmer
